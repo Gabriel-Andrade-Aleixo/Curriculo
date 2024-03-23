@@ -20,4 +20,8 @@ Um site breve sobre algumas informações do meu currículo
 <div>
     <img src="./css/img/contato.png" alt="Imagem Contato">
 </div>
-               
+
+## 🛠️ Construído com
+
+Visual Studio Code utilizando HTML e CSS.
+
