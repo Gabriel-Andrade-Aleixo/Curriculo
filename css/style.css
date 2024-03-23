@@ -1,0 +1,147 @@
+/* * {
+    margin: 5;
+    padding: 5;
+  } */
+body {
+    background-color: rgb(30, 30, 30);
+    color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+}
+
+.Aqui {
+    color: aquamarine;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    /* display: flex; */
+    /* align-items: center; */
+    /* height: 30px; */
+    padding: 10px;
+    text-align: center;
+}
+
+.FotoPerfil {
+    width: 200px;
+    border-radius: 20px;
+    border: solid black 4px;
+}
+
+.DivFoto {
+    text-align: center;
+    padding: 20px;
+}
+
+.FotoPerfil:hover {
+    cursor: none;
+}
+
+header {
+    background-color: #333;
+    color: aliceblue;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    max-height: 95.81px;
+    /* background-image: url(./); */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.DivFora {
+    text-align: center;
+    margin-bottom: 20px;
+    max-height: 400px;
+    /* background-color: purple; */
+    padding: 10px;
+}
+
+.DivDentro {
+    border: solid aliceblue 2px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-table;
+    width: 400px;
+    height: 300px;
+    max-width: 400px;
+    /* max-height: 400px; */
+    /* background-color: #3498db; */
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.formac {
+    text-align: center;
+}
+
+.DivDentroDois {
+    display: flex;
+    flex-direction: column;
+    /* background-color: green; */
+    width: 400px;
+    height: 50px;
+    /* align-items: center; */
+    /* margin-top: -10px; */
+    padding: 10px;
+}
+
+.divteste {
+    text-align: left;
+    /* display: block; */
+    align-items: end;
+    width: 400px;
+    margin-top: -10px;
+    /* flex-direction: column; */
+    padding: 0px 0px 0px 10px;
+    /* background-color: #f6ff00; */
+    color: aliceblue;
+}
+
+.conteudoinv {
+    margin-bottom: 700px;
+}
+
+.Ulli {
+    margin-top: -10px;
+}
+
+.imgsocial {
+    width: 50px;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+a:hover {
+    color: rgba(75, 255, 195, 0.445);
+}
+
+.divex {
+    background-color: greenyellow;
+}
+
+.iniciocurr {
+    width: 100%;
+    height: 100%;
+}
+
+/* Aqui começa a bagunça */
