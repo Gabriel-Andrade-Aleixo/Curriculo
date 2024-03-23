@@ -4,7 +4,8 @@ Um site breve sobre algumas informações do meu currículo
 
 ## 🚀 Acessando o site
 
-Você pode acessar o site pelo link <a href="curriculo-aleixo-52c42a.netlify.app">curriculo-aleixo-52c42a.netlify.app</a>
+<h6>Você pode acessar o site pelo link</h6>
+curriculo-aleixo-52c42a.netlify.app
 
 ## Imagens do site
 
