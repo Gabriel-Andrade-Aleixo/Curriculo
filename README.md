@@ -21,7 +21,7 @@ Um site sobre o meu currículo. Provavelmente está desatualizado no momento. Ma
 </div>
 <br>
 <div>
-    <img src="./css/img/trabalho.png" alt="Imagem Trabalhos">
+    <img src="./css/img/trabalhos.png" alt="Imagem Trabalhos">
 </div>
 <br>
 
