@@ -24,9 +24,6 @@ Um site sobre o meu currículo. Provavelmente está desatualizado no momento. Ma
     <img src="./css/img/trabalho.png" alt="Imagem Trabalhos">
 </div>
 <br>
-<div>
-    <img src="./css/img/contato.png" alt="Imagem Contato">
-</div>
 
 ## 🛠️ Construído com
 
